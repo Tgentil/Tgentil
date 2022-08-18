@@ -1,4 +1,8 @@
-## Olá!! Me chamo Thiago e estou estudando sistemas da informação!
+<h1 align="center">
+<img src="https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b76119wzv18r2saxwn7lajl9rxsb1zioa0btscadjahq0&rid=giphy.gif&ct=s" alt="coding-gif" width="28">
+Hello! My name is Thiago Gentil, I'm a student of information systems. <img src="https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b76119wzv18r2saxwn7lajl9rxsb1zioa0btscadjahq0&rid=giphy.gif&ct=s" alt="coding-gif" width="28">
+</h1>
+
 <div align="center">
   <a href="https://github.com/Tgentil">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tgentil&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
