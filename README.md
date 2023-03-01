@@ -25,6 +25,6 @@ Hello! My name is Thiago Gentil, I'm a student of information systems. <img src=
   <a href = "mailto:thiagosgentil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-da-silveira-gentil/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/Tgentil/Tgentil/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/tgentil/tgentil/blob/output/github-contribution-grid-snake.svg)
   
 </div>
