@@ -5,7 +5,7 @@ Hello! My name is Thiago Gentil, I'm a student of information systems. <img src=
 
 <div align="center">
   <a href="https://github.com/Tgentil">
-  <img height="180em" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api?username=Tgentil&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api?username=Tgentil&hide=issues,contribs&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api/top-langs/?username=Tgentil&layout=compact&langs_count=7&theme=highcontrast&hide=scss,jupyter%20notebook"/>
 </div>
   
