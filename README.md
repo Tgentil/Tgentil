@@ -6,6 +6,7 @@ Hello! My name is Thiago Gentil, I'm a student of information systems. <img src=
 <div align="center">
   <div style="display: flex; align-items: center;">
     <img height="200em" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api?username=Tgentil&layout=compact&hide=issues,contribs&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&cache=86400"/>
+    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=Tgentil&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&cache=86400" alt="Tgentil-streak-stats" />
     <img height="200em" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api/top-langs/?username=Tgentil&layout=compact&langs_count=7&theme=highcontrast&hide=scss,jupyter%20notebook&cache=86400"/>
   </div>
 </div>
