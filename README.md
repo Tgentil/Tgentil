@@ -1,10 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <h1 align="center">
-
-<img src="https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b76119wzv18r2saxwn7lajl9rxsb1zioa0btscadjahq0&rid=giphy.gif&ct=s" alt="coding-gif" width="28">
-Hello! My name is Thiago Gentil, I'm a student of information systems. <img src="https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b76119wzv18r2saxwn7lajl9rxsb1zioa0btscadjahq0&rid=giphy.gif&ct=s" alt="coding-gif" width="28">
+  <img src="https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b76119wzv18r2saxwn7lajl9rxsb1zioa0btscadjahq0&rid=giphy.gif&ct=s" alt="coding-gif" width="28">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO!+My+name+is+Thiago+Gentil;I'm+19+years+old;I+am+from+Florianópolis,+SC;I+´m+student+of+information+system+at+Unisul+;Be+Welcome!+:%29" />
+  <img src="https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b76119wzv18r2saxwn7lajl9rxsb1zioa0btscadjahq0&rid=giphy.gif&ct=s" alt="coding-gif" width="28">
 </h1>
+
 
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -14,9 +15,10 @@ Hello! My name is Thiago Gentil, I'm a student of information systems. <img src=
 <div align="center">
 <br><p align="centre"><b>Stats</b></p>
   <div style="display: flex; align-items: center;">
-    <img height="200em" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api?username=Tgentil&layout=compact&hide=issues,contribs&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true&cache=86400"/>
+  <img height="200em" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api/top-langs/?username=Tgentil&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&layout=compact&langs_count=10&hide=jupyter%20notebook&cache=86400"/>
     <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=Tgentil&hide_border=true&stroke=00bfbf&background=0d1117&ring=00bfbf&fire=ff7b72&currStreakNum=c9d1d9&sideNums=ff7b72&currStreakLabel=8b949e&sideLabels=6e7681&dates=00bfbf&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&cache=86400" alt="Tgentil-streak-stats" />
-    <img height="200em" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api/top-langs/?username=Tgentil&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&layout=compact&langs_count=10&hide=jupyter%20notebook&cache=86400"/>
+        <img height="200em" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api?username=Tgentil&hide=issues,contribs&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true&cache=86400"/>
+    
     
  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tgentil&theme=gotham)
     
