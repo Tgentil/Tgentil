@@ -43,11 +43,20 @@ src="https://img.shields.io/github/followers/Tgentil?logo=github&style=for-the-b
 <p align="center">  <img src="https://github-profile-trophy.vercel.app/?username=Tgentil&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&no-frame=true" /></p> 
 <br></div>
   
+  <b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Tgentil/OrganizadorNFe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tgentil&repo=OrganizadorNFe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Tgentil/sort_files" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tgentil&repo=sort_files&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+<div width="100%" align="center"><a href="https://github.com/Tgentil/busca-em-profundidade" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tgentil&repo=busca-em-profundidade&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Tgentil/Validador--De-CPF" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tgentil&repo=Validador--De-CPF&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+  
+ <br /><br /><br /><br /><br />
+  
 <br><p align="center"><b>The Serpentine Path of Progress</b></p>
 <p align="center">
   <img src="https://github.com/Tgentil/Tgentil/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
+  </div>
 
   </div>
 
