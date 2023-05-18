@@ -6,8 +6,10 @@
   <img src="https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b76119wzv18r2saxwn7lajl9rxsb1zioa0btscadjahq0&rid=giphy.gif&ct=s" alt="coding-gif" width="28">
 </h1>
 
-
+<a href="https://www.github.com/Tgentil" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Tgentil?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
  <div align="center">
+  
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Tgentil}/count.svg" /></p> 
 <br></div>
