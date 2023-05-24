@@ -50,6 +50,8 @@ src="https://img.shields.io/github/followers/Tgentil?logo=github&style=for-the-b
     
   </div>
 </div>
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tgentil&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 <br><p align="centre"><b>Trophies 🏆</b></p>  
