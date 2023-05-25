@@ -44,7 +44,7 @@ src="https://img.shields.io/github/followers/Tgentil?logo=github&style=for-the-b
   <br /><br /><br /> 
   <div style="display: flex; align-items: center;">
   <img height="200em" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api/top-langs/?username=Tgentil&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact&langs_count=10&hide=jupyter%20notebook&cache=86400"/>
-    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=Tgentil&stroke=0891b2&background=1c1917&ring=0891b2&fire=ff7b72&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&cache=86400" alt="Tgentil-streak-stats" /><br /><br />
+    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=Tgentil&stroke=0891b2&background=1c1917&ring=0891b2&fire=ff7b72&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=0891b2&dates=ffffff&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&cache=86400" alt="Tgentil-streak-stats" /><br /><br />
         <img height="200em" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api?username=Tgentil&hide=issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&cache=86400"/><br /><br />
     
     
