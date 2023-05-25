@@ -1,9 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header"/>
 
 <h1 align="center">
-  <img src="https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b76119wzv18r2saxwn7lajl9rxsb1zioa0btscadjahq0&rid=giphy.gif&ct=s" alt="coding-gif" width="28">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0891b2&size=35&center=true&vCenter=true&width=1000&lines=HELLO!+My+name+is+Thiago+Gentil;I'm+19+years+old;I+am+from+Florianópolis,+SC;I+´m+student+of+information+system+at+Unisul+;Be+Welcome!+:%29" />
-  <img src="https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b76119wzv18r2saxwn7lajl9rxsb1zioa0btscadjahq0&rid=giphy.gif&ct=s" alt="coding-gif" width="28">
+  <div align="left">
+  <img src="https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b76119wzv18r2saxwn7lajl9rxsb1zioa0btscadjahq0&rid=giphy.gif&ct=s" alt="coding-gif" width="28"></div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=3000&pause=400&color=0891B2&center=true&vCenter=true&width=435&separator=%3C&lines=Welcome+to+my+world!%3CI'm+a+20+-year-old+%3Cwith+a+passion+for+technology.%3Chailing+from+Florian%C3%B3polis%2C+Brazil%2C%3CBe+Welcome!%3CrestartApplication();" alt="Typing SVG" /></a>
+  <div align="right">
+  <img src="https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b76119wzv18r2saxwn7lajl9rxsb1zioa0btscadjahq0&rid=giphy.gif&ct=s" alt="coding-gif" width="28"></div>
 </h1>
 
 <div align="right">
