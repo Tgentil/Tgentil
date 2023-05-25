@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header"/>
 
+
 <h1 align="center">
   <div align="left">
   <img src="https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b76119wzv18r2saxwn7lajl9rxsb1zioa0btscadjahq0&rid=giphy.gif&ct=s" alt="coding-gif" width="28"></div>
@@ -14,7 +15,7 @@
     </a>
   
 <br /><br />
-    
+     
 <details>
     <summary align="left"> My Stats 📊</summary>
       <br /><br /><br /> 
@@ -88,7 +89,7 @@
 </p>
 </div>  
 
-##
+<img align="left" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="80%">  
 
 <div> 
   <h4> My socials: </h4>
