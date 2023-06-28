@@ -29,6 +29,14 @@
             </div>
     </div>
 
+<details>
+    <summary>Wakatime My Week Stats 🕗</summary>
+    <br />
+        <img height="600em" src="https://wakatime.com/share/@7114f214-9fa9-4ddc-af1a-f4bd708d4680/09fa1fa4-c8c3-4a7b-8fb0-c286315777a8.svg" alt="Wakatime languages Stats"/>
+    <br />
+    <img height="600em" src="https://wakatime.com/share/@7114f214-9fa9-4ddc-af1a-f4bd708d4680/4513157d-e5b2-49d5-a119-58367a8868d4.svg" alt="Wakatime Stats" />
+</details>
+
 </details>
   
 <details>
@@ -40,7 +48,7 @@
 </details>
   
 <details>
-    <summary> Top Repositories</summary>
+    <summary> Top Repositories 📌 </summary>
 
 <br /><br /> 
 
@@ -52,7 +60,7 @@
 </details>
 
 <details>
-    <summary align="left"> My socials</summary>  
+    <summary align="left"> My socials 📧 </summary>  
   <div align="center"> 
   <h4> My socials: </h4>
     <p> <a href="https://www.codepen.io/tgentil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/Tgentil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/thiagogentil._" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/thiago-da-silveira-gentil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21274611" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
