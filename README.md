@@ -113,18 +113,19 @@
 
 
 ##
-
 <br></br>
-
 <br>
     <p align="center"><b>The Serpentine Path of Progress 🐍</b></p>
-
 <p align="center">
     <img src="https://github.com/Tgentil/Tgentil/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
 </div>
-
 </div>
   
+<div align="center">
+    <br>
+        <p align="centre"><b>Visitors Count </b></p>  
+        <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Tgentil}/count.svg" /></p> 
+    <br>
+        </div></div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=footer"/>
