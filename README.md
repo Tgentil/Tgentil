@@ -112,12 +112,14 @@
 
 
 ##
-<br><br/>
-<!-- <br>
-    <p align="center"><b>The Serpentine Path of Progress 🐍</b></p>
+<br></br>
+<br>
+    <p align="center">
+    <!-- <b>The Serpentine Path of Progress 🐍</b> -->
+    </p>
 <p align="center">
-    <img src="https://github.com/Tgentil/Tgentil/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>  -->
+    <!-- <img src="https://github.com/Tgentil/Tgentil/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" /> -->
+</p>
 </div>
 </div>
   
