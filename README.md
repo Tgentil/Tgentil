@@ -21,6 +21,10 @@
       <br /><br />
             <div align="center">
                 <div style="display: flex; align-items: center;">
+                    <div align="left">
+                      <a href="https://wakatime.com/@7114f214-9fa9-4ddc-af1a-f4bd708d4680"><img src="https://wakatime.com/badge/user/7114f214-9fa9-4ddc-af1a-f4bd708d4680.svg" alt="Total time coded since Jun 27 2023" /></a>
+                    </div>
+                  <br />
                     <img height="200em" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api/top-langs/?username=Tgentil&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact&langs_count=10&hide=jupyter%20notebook&cache=86400"/>
                     <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=Tgentil&stroke=0891b2&background=1c1917&ring=0891b2&fire=ff7b72&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=0891b2&dates=ffffff&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&excludeDaysLabel=ff7b72&cache=86400" alt="Tgentil-streak-stats" /><br /><br />
                     <img height="200em" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api?username=Tgentil&hide=issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&cache=86400"/><br /><br />
@@ -30,12 +34,7 @@
     </div>
 
 <details>
-    <summary>Wakatime My Week Stats 🕗</summary>
-    <br />
-    <div align="left">
-<a href="https://wakatime.com/@7114f214-9fa9-4ddc-af1a-f4bd708d4680"><img src="https://wakatime.com/badge/user/7114f214-9fa9-4ddc-af1a-f4bd708d4680.svg" alt="Total time coded since Jun 27 2023" /></a>
-</div>
-  <br />
+    <summary>Wakatime - My Week Stats 🕗</summary>
         <img height="600em" src="https://wakatime.com/share/@7114f214-9fa9-4ddc-af1a-f4bd708d4680/53778751-1412-4f74-95fb-accdc2fbdc85.svg" alt="Wakatime languages Stats"/>
     <br />
     <img height="600em" src="https://wakatime.com/share/@7114f214-9fa9-4ddc-af1a-f4bd708d4680/4513157d-e5b2-49d5-a119-58367a8868d4.svg" alt="Wakatime Stats" />
@@ -59,7 +58,7 @@
 <div width="100%" align="center"><a href="https://github.com/Tgentil/OrganizadorNFe" align="left"><img align="left" width="45%" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api/pin/?username=Tgentil&repo=OrganizadorNFe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Tgentil/sort_files" align="right"><img align="right" width="45%" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api/pin/?username=Tgentil&repo=sort_files&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/Tgentil/busca-em-profundidade" align="left"><img align="left" width="45%" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api/pin/?username=Tgentil&repo=busca-em-profundidade&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Tgentil/Validador--De-CPF" align="right"><img align="right" width="45%" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api/pin/?username=Tgentil&repo=Validador--De-CPF&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-  
+
 <br></br><br></br><br></br><br></br>
 </details>
 
