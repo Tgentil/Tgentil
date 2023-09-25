@@ -47,13 +47,6 @@
 </div>
 
 <details>
-    <summary align="left"> Trophies 🏆</summary>
-    <p align="center">  
-        <img src="https://github-profile-trophy.vercel.app/?username=Tgentil&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&no-frame=true" />
-    </p>
-</details>
-
-<details>
     <summary> Top Repositories 📌 </summary>
 
 <br /><br /> 
