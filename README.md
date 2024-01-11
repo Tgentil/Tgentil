@@ -29,7 +29,7 @@
                     </a>
                 </div>
                 <br>
-                <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=Tgentil&stroke=0891b2&background=1c1917&ring=0891b2&fire=ff7b72&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=0891b2&dates=ffffff&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&excludeDaysLabel=ff7b72&cache=86400" alt="Tgentil-streak-stats" />
+                <img height="200em" src="https://github-readme-streak-stats-three-psi.vercel.app?user=Tgentil&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=1c1917&stroke=0891b2&ring=0891b2&fire=ff7b72&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0891b2&sideLabels=0891b2&dates=ffffff&excludeDaysLabel=ff7b7" alt="Tgentil-streak-stats" />
                 <br><br>
                 <img height="200em" src="https://github-readme-stats-git-master-tgentil.vercel.app/api?username=Tgentil&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show=prs_merged_percentage&show_icons=true&cache=86400"/><br><br>
                 <img height="200em" src="https://github-readme-activity-graph.vercel.app/graph?username=Tgentil&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt=" My github activity graph">
