@@ -53,10 +53,10 @@
 
 <div width="100%" align="center">
     <a href="https://github.com/Tgentil/OrganizadorNFe" align="left">
-        <img align="left" width="45%" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api/pin/?username=Tgentil&repo=OrganizadorNFe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        <img align="left" width="45%" src="https://github-readme-stats-git-master-tgentil.vercel.app/api/pin/?username=Tgentil&repo=OrganizadorNFe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
     <a href="https://github.com/Tgentil/sort_files" align="right">
-        <img align="right" width="45%" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api/pin/?username=Tgentil&repo=sort_files&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        <img align="right" width="45%" src="https://github-readme-stats-git-master-tgentil.vercel.app/api/pin/?username=Tgentil&repo=sort_files&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
 </div>
 
@@ -64,10 +64,10 @@
 
 <div width="100%" align="center">
     <a href="https://github.com/Tgentil/busca-em-profundidade" align="left">
-        <img align="left" width="45%" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api/pin/?username=Tgentil&repo=busca-em-profundidade&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        <img align="left" width="45%" src="https://github-readme-stats-git-master-tgentil.vercel.app/api/pin/?username=Tgentil&repo=busca-em-profundidade&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
     <a href="https://github.com/Tgentil/Validador--De-CPF" align="right">
-        <img align="right" width="45%" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api/pin/?username=Tgentil&repo=Validador--De-CPF&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        <img align="right" width="45%" src="https://github-readme-stats-git-master-tgentil.vercel.app/api/pin/?username=Tgentil&repo=Validador--De-CPF&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
 </div>
 
