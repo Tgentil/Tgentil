@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header"/>
 
-
 <div align="left">
         <img src="https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b76119wzv18r2saxwn7lajl9rxsb1zioa0btscadjahq0&rid=giphy.gif&ct=s" alt="coding-gif" width="28">
 </div>
@@ -31,9 +30,10 @@
                 <br>
                 <img height="200em" src="https://github-readme-stats-git-master-tgentil.vercel.app/api/top-langs/?username=Tgentil&langs_count=9&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact&hide=php,scss&cache=86400" />
                 <img height="200em" src="https://github-readme-streak-stats-tgentil.vercel.app?user=Tgentil&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=1c1917&stroke=0891b2&ring=0891b2&fire=ff7b72&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0891b2&sideLabels=0891b2&dates=ffffff&excludeDaysLabel=ff7b72" alt="Tgentil-streak-stats" />
-                <br><br>
+                <br>
                 <img height="200em" src="https://github-readme-stats-git-master-tgentil.vercel.app/api?username=Tgentil&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show=prs_merged_percentage&show_icons=true&cache=86400"/><br><br>
                 <img height="200em" src="https://github-readme-activity-graph.vercel.app/graph?username=Tgentil&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt=" My github activity graph">
+                <br>                    
             </div>
         </div>
     </details>
@@ -50,7 +50,7 @@
 <details>
     <summary> Top Repositories 📌 </summary>
 
-<br /><br /> 
+<br /><br />
 
 <div width="100%" align="center">
     <a href="https://github.com/Tgentil/OrganizadorNFe" align="left">
@@ -138,7 +138,7 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
 </p>
-</div>   
+</div>
 
 ##
 
@@ -151,7 +151,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tgentil/Tgentil/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tgentil/Tgentil/output/github-contribution-grid-snake.svg">
 </picture>
-
 
 <div align="center">
     <br>
