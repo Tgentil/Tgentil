@@ -105,7 +105,7 @@
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0891b2&text=Languages&height=150&fontSize=60&desc=And%20Tools%20:&descAlignY=75&descAlign=65" align="left">
 </div>
 
-<img align="right" alt="myPicture" height="150" src="https://mediacdns3.ulife.com.br/Community/Images/3111582.jpg?version=202110191904">
+<img align="right" alt="myPicture" height="150" src="https://avatars.githubusercontent.com/u/88681055?v=4">
 
 <br></br>
 
