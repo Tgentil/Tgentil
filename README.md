@@ -77,6 +77,14 @@
 </details>
 
 <details>
+  <summary align="left"> GitHub Trophies 🏆 </summary>
+  <br>
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Tgentil&theme=darkhub&row=3&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  </div>
+</details>
+
+<details>
     <summary align="left"> My socials 📧 </summary>  
     <div align="center"> 
         <h4> My socials: </h4>
